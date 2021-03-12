@@ -339,10 +339,10 @@
 </template>
 
 <script>
-var API_URL = "http://localhost:3000/api/allCompanies";
-var API_SINGLE = "http://localhost:3000/api/singleCompany";
-var API_URL_DELETE = "https://localhost:3000/api/delete-company";
-var API_UPDATE = "https://localhost:3000/api/update-company";
+var API_URL = "https://whispering-waters-93802.herokuapp.com/api/allCompanies";
+var API_SINGLE = "https://whispering-waters-93802.herokuapp.com/api/singleCompany";
+var API_URL_DELETE = "https://whispering-waters-93802.herokuapp.com/api/delete-company";
+var API_UPDATE = "https://whispering-waters-93802.herokuapp.com/api/update-company";
 
 export default {
   data() {

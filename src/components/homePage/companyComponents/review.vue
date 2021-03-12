@@ -40,8 +40,8 @@ Charcters left: {{ remainingCount }}</pre
 </template>
 
 <script>
-const API_URL = "http://localhost:3000/api/allComments";
-const API_URL_ADD_COMMENT = "http://localhost:3000/api/addComment";
+const API_URL = "https://whispering-waters-93802.herokuapp.com/api/allComments";
+const API_URL_ADD_COMMENT = "https://whispering-waters-93802.herokuapp.com/api/addComment";
 import reviewStars from "./rating";
 import userReviews from "./userReviews";
 export default {

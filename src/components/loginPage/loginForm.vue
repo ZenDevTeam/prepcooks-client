@@ -45,7 +45,7 @@
 
 <script>
 
-const API_URL ="http://localhost:3000/api/login"
+const API_URL ="https://whispering-waters-93802.herokuapp.com/api/login"
 export default {
   data() {
     return {

@@ -84,7 +84,7 @@
 </template>
 
 <script>
- const API_URL = 'http://localhost:3000/api/register'
+ const API_URL = 'https://whispering-waters-93802.herokuapp.com/api/register'
 export default {
   
     data() {

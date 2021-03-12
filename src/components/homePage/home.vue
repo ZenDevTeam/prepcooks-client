@@ -20,7 +20,7 @@
 </template>
 
 <script>
-const API_URL = 'http://localhost:3000/api/allCompanies'
+const API_URL = 'https://whispering-waters-93802.herokuapp.com/api/allCompanies'
 import company from "./company.vue";
 import banner from "./homeBanner"
 import advancedSearch from "./advancedSearch"

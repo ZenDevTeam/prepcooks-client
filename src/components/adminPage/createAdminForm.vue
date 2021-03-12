@@ -27,7 +27,7 @@
 </template>
 
 <script>
-const API_URL = 'http://localhost:3000/api/registerAdmin'
+const API_URL = 'https://whispering-waters-93802.herokuapp.com/api/registerAdmin'
 export default {
 
     data() {

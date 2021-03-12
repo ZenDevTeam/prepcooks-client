@@ -134,7 +134,7 @@
 </template>
 
 <script>
-const API_URL = "http://localhost:3000/api/addcompany"
+const API_URL = "https://whispering-waters-93802.herokuapp.com/api/addcompany"
 export default {
     data() {
         return {
